@@ -1,2 +1,3 @@
 this is projiect2
 config cehshi
+config ceshi origin
