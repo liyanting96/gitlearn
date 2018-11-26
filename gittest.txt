@@ -6,3 +6,4 @@ add merge
 lyt add new info and other people add
 wonkyu
 ceshi
+config ceshi
